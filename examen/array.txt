@@ -1,0 +1,11 @@
+oorspronkelijke volgorde          omgekeerde volgorde          gemiddelde
+123									9							66
+4567									745							2656
+6543									37							3290
+67									98							82
+987									3							495
+3									987							495
+98									67							82
+37									6543							3290
+745									4567							2656
+9									123							66

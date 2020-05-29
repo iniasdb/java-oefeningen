@@ -1,0 +1,5 @@
+Beroep				2000	2012	groei
+Medisch_assistent	365		579		59 %
+Gezinshelper		580		859		48 %
+Programmeur			394		573		45 %
+Systeemanalyst		468		653		40 %

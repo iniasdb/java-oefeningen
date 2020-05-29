@@ -1,0 +1,4 @@
+Naam          Beginsaldo          Intrest          Stortingen          Betalingen          Nieuw saldo
+Jan Willems          1250.0          18.75          750.0          980.0          1038.75
+Karen Sukowski          2610.0          39.150000000000006          495.0          1720.0          1424.15
+Vera Goovaerts          3167.0          47.505          966.0          289.0          3891.505
