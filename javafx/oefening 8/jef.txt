@@ -1,0 +1,5 @@
+jos
+aard: 9
+gesch: 9
+soft: 10
+0

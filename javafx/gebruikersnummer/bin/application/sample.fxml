@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <Label fx:id="label" layoutX="26.0" layoutY="38.0" minHeight="16" minWidth="69" text="Voornaam" />
+   <TextField fx:id="voornaam" layoutX="114.0" layoutY="34.0" prefHeight="25.0" prefWidth="189.0" />
+   <Label fx:id="voornaamerror" layoutX="114.0" layoutY="65.0" minHeight="16" minWidth="69" prefHeight="17.0" prefWidth="147.0" textFill="RED"/>
+   <Label fx:id="label1" layoutX="26.0" layoutY="92.0" minHeight="16" minWidth="69" text="Familienaam" />
+   <TextField fx:id="familienaam" layoutX="114.0" layoutY="88.0" prefHeight="25.0" prefWidth="189.0" />
+   <Label fx:id="familienaamerror" layoutX="116.0" layoutY="122.0" minHeight="16" minWidth="69" prefHeight="17.0" prefWidth="147.0" textFill="RED"/>
+   <Button layoutX="22.0" layoutY="148.0" mnemonicParsing="false" onAction="#showUserNumber" text="Toon gebruikersnummer" />
+   <Label fx:id="usernumber" layoutX="190.0" layoutY="152.0" minHeight="16" minWidth="69" />
+</AnchorPane>

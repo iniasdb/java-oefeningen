@@ -1,0 +1,6 @@
+web:
+7
+soft:
+2
+databanken:
+3
